@@ -1,4 +1,10 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL :
+## ME CHAMO LARA CAROLINE 
+°Estou estudando no ALURA
+
+° Estou me desnvolvendo na linguagem JavaScript
+
+° Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvido
 
 <!--
 **laracarolp/laracarolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
